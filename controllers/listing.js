@@ -74,7 +74,7 @@ module.exports.updateListing = async (req, res) => {
         await listing.save();
     }
    
-    req.flash("success", "Listing Updated!");
+    req.flash("success", "Listing Updated Updates!");
     res.redirect(`/listings/${id}`); 
 }
 
