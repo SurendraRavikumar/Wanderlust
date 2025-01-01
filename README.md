@@ -17,11 +17,15 @@ A web application for exploring and discovering travel destinations. Wanderlust 
    ```bash
    git clone https://github.com/SurendraRavikumar/Wanderlust.git
 2. Navigate to the project directory:
+   ```bash
    cd Wanderlust
 3. Install dependencies:
+   ```bash
    npm install
-4. Start the application:
+5. Start the application:
+   ```bash
    node app.js
-5. Open your browser and go to:
-   http://localhost:3000/listings
+6. Open your browser and go to:
+   ```bash
+   http://localhost:8080/listings
 
