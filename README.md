@@ -18,8 +18,8 @@ Before you begin, ensure you have the following installed on your system:
 - npm (comes with Node.js)
 - To verify if Node.js and npm are installed, run the following commands in your terminal:
   ```bash
-node -v
-npm -v
+  node -v
+  npm -v
 
 ## Installation and Setup
 1. Clone the repository:
