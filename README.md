@@ -1,11 +1,13 @@
 # Wanderlust
-A web application for exploring and discovering travel destinations. Wanderlust provides an intuitive interface to search for locations, view details, and plan your next adventure.
+A web application for exploring and discovering travel destinations. Wanderlust provides an intuitive interface to search for locations, view details, and plan your next adventure. Additionally, users can rent out their own properties, making it a versatile platform for both travelers and property owners.
+👉 **[Live Demo](https://wanderlust-drcc.onrender.com/listings)**
 
 ## Features
 - Search for travel destinations using keywords.
 - View detailed information about destinations, including images and descriptions.
 - Responsive design for seamless browsing on any device.
 - Integrated with external APIs for real-time data.
+- Rent out your own property to travelers.
 
 ## Technology Stack
 - **Front-end:** HTML, CSS, JavaScript
