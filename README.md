@@ -11,7 +11,16 @@ A web application for exploring and discovering travel destinations. Wanderlust 
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Node.js, Express.js
 - **APIs:** RESTful APIs for destination data
-  
+
+## Prerequisites
+Before you begin, ensure you have the following installed on your system:
+- [Node.js](https://nodejs.org/) (version 22.11.0 or later)
+- npm (comes with Node.js)
+- To verify if Node.js and npm are installed, run the following commands in your terminal:
+  ```bash
+node -v
+npm -v
+
 ## Installation and Setup
 1. Clone the repository:
    ```bash
